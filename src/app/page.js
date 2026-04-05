@@ -29,6 +29,7 @@ function Nav() {
           <a href="/integrations" className="hover:text-white transition-colors">Integrations</a>
           <a href="/demo" className="hover:text-white transition-colors">Demo</a>
           <a href="/api-docs" className="hover:text-white transition-colors">API</a>
+          <a href="/flywheel" className="hover:text-white transition-colors">Flywheel</a>
         </div>
       </div>
     </nav>

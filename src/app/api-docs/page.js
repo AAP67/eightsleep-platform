@@ -127,6 +127,7 @@ export default function ApiDocs() {
             <a href="/integrations" className="hover:text-white transition-colors">Integrations</a>
             <a href="/demo" className="hover:text-white transition-colors">Demo</a>
             <span className="text-white font-medium">API</span>
+            <a href="/flywheel" className="hover:text-white transition-colors">Flywheel</a>
           </div>
         </div>
       </nav>
