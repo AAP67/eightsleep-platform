@@ -1,0 +1,4052 @@
+[
+  {
+    "date": "2026-01-15",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 55,
+      "outdoorTempF": 51,
+      "humidity": 47,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.3,
+      "backToBackMeetings": 1,
+      "slackMessages": 21
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 218,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 1,
+      "lastMealHour": 19.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 67,
+      "hrv": 41,
+      "deepSleepPct": 10,
+      "remPct": 19.8,
+      "lightSleepPct": 64.7,
+      "respiratoryRate": 14.4,
+      "timeToSleepMin": 9,
+      "totalSleepHours": 6,
+      "bedtime": "22:54",
+      "wakeTime": "05:00"
+    }
+  },
+  {
+    "date": "2026-01-16",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 31,
+      "outdoorTempF": 54,
+      "humidity": 63,
+      "pollenCount": 25
+    },
+    "cognitiveLoad": {
+      "meetingHours": 5.6,
+      "backToBackMeetings": 2,
+      "slackMessages": 100
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "weights",
+      "caffeineMg": 112,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 71,
+      "hrv": 41,
+      "deepSleepPct": 10.2,
+      "remPct": 16.2,
+      "lightSleepPct": 69.4,
+      "respiratoryRate": 14.1,
+      "timeToSleepMin": 28,
+      "totalSleepHours": 6.3,
+      "bedtime": "21:54",
+      "wakeTime": "04:42"
+    }
+  },
+  {
+    "date": "2026-01-17",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 27,
+      "outdoorTempF": 43,
+      "humidity": 48,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "swimming",
+      "caffeineMg": 124,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 2,
+      "lastMealHour": 20.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 64,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.6
+    },
+    "sleep": {
+      "score": 75,
+      "hrv": 37,
+      "deepSleepPct": 15,
+      "remPct": 12.5,
+      "lightSleepPct": 70.3,
+      "respiratoryRate": 15.7,
+      "timeToSleepMin": 3,
+      "totalSleepHours": 8.2,
+      "bedtime": "00:06",
+      "wakeTime": "08:18"
+    }
+  },
+  {
+    "date": "2026-01-18",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 34,
+      "outdoorTempF": 45,
+      "humidity": 87,
+      "pollenCount": 9
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "swimming",
+      "caffeineMg": 207,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 86,
+      "hrv": 44,
+      "deepSleepPct": 18.7,
+      "remPct": 18.5,
+      "lightSleepPct": 59.1,
+      "respiratoryRate": 15.5,
+      "timeToSleepMin": 11,
+      "totalSleepHours": 8.8,
+      "bedtime": "23:48",
+      "wakeTime": "08:48"
+    }
+  },
+  {
+    "date": "2026-01-19",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 39,
+      "outdoorTempF": 51,
+      "humidity": 56,
+      "pollenCount": 5
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.1,
+      "backToBackMeetings": 1,
+      "slackMessages": 54
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "cycling",
+      "caffeineMg": 323,
+      "lastCaffeineHour": 16,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 18.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 67,
+      "hrv": 33,
+      "deepSleepPct": 10.4,
+      "remPct": 16.5,
+      "lightSleepPct": 68.3,
+      "respiratoryRate": 15.3,
+      "timeToSleepMin": 21,
+      "totalSleepHours": 6.5,
+      "bedtime": "22:30",
+      "wakeTime": "05:24"
+    }
+  },
+  {
+    "date": "2026-01-20",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 36,
+      "outdoorTempF": 54,
+      "humidity": 69,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.1,
+      "backToBackMeetings": 1,
+      "slackMessages": 70
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "yoga",
+      "caffeineMg": 234,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 71,
+      "hrv": 38,
+      "deepSleepPct": 11.3,
+      "remPct": 19.9,
+      "lightSleepPct": 63.8,
+      "respiratoryRate": 14.8,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 7.6,
+      "bedtime": "22:48",
+      "wakeTime": "06:42"
+    }
+  },
+  {
+    "date": "2026-01-21",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 41,
+      "outdoorTempF": 52,
+      "humidity": 58,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.1,
+      "backToBackMeetings": 1,
+      "slackMessages": 17
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 110,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 3,
+      "lastMealHour": 19.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 62,
+      "hrv": 21,
+      "deepSleepPct": 8.4,
+      "remPct": 12.9,
+      "lightSleepPct": 73.7,
+      "respiratoryRate": 15.8,
+      "timeToSleepMin": 24,
+      "totalSleepHours": 6.7,
+      "bedtime": "22:54",
+      "wakeTime": "06:00"
+    }
+  },
+  {
+    "date": "2026-01-22",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 25,
+      "outdoorTempF": 50,
+      "humidity": 46,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 5.6,
+      "backToBackMeetings": 1,
+      "slackMessages": 66
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "yoga",
+      "caffeineMg": 168,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 65,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 66,
+      "hrv": 34,
+      "deepSleepPct": 11.4,
+      "remPct": 18.3,
+      "lightSleepPct": 66,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 23,
+      "totalSleepHours": 7,
+      "bedtime": "22:48",
+      "wakeTime": "06:12"
+    }
+  },
+  {
+    "date": "2026-01-23",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 36,
+      "outdoorTempF": 50,
+      "humidity": 53,
+      "pollenCount": 2
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 65
+    },
+    "lifestyle": {
+      "exerciseIntensity": 9,
+      "exerciseType": "HIIT",
+      "caffeineMg": 258,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 20.7,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 24,
+      "deepSleepPct": 11.2,
+      "remPct": 13.4,
+      "lightSleepPct": 69.7,
+      "respiratoryRate": 15.1,
+      "timeToSleepMin": 27,
+      "totalSleepHours": 6.5,
+      "bedtime": "22:36",
+      "wakeTime": "05:36"
+    }
+  },
+  {
+    "date": "2026-01-24",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 26,
+      "outdoorTempF": 56,
+      "humidity": 38,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 5
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 223,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 75,
+      "hrv": 38,
+      "deepSleepPct": 13.7,
+      "remPct": 15.8,
+      "lightSleepPct": 65.9,
+      "respiratoryRate": 15.5,
+      "timeToSleepMin": 21,
+      "totalSleepHours": 7.4,
+      "bedtime": "00:24",
+      "wakeTime": "08:06"
+    }
+  },
+  {
+    "date": "2026-01-25",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 10,
+      "outdoorTempF": 44,
+      "humidity": 69,
+      "pollenCount": 8
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 7
+    },
+    "lifestyle": {
+      "exerciseIntensity": 9,
+      "exerciseType": "running",
+      "caffeineMg": 91,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 3,
+      "lastMealHour": 19.3,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 62,
+      "optimalTempF": 68,
+      "tempDeviation": 6,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 2.4
+    },
+    "sleep": {
+      "score": 67,
+      "hrv": 37,
+      "deepSleepPct": 7.9,
+      "remPct": 9.9,
+      "lightSleepPct": 76.9,
+      "respiratoryRate": 15.5,
+      "timeToSleepMin": 5,
+      "totalSleepHours": 7.1,
+      "bedtime": "23:24",
+      "wakeTime": "06:36"
+    }
+  },
+  {
+    "date": "2026-01-26",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 36,
+      "outdoorTempF": 49,
+      "humidity": 49,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 5.1,
+      "backToBackMeetings": 2,
+      "slackMessages": 59
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 235,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 18,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 64,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.6
+    },
+    "sleep": {
+      "score": 51,
+      "hrv": 20,
+      "deepSleepPct": 6.2,
+      "remPct": 15.3,
+      "lightSleepPct": 73.4,
+      "respiratoryRate": 15.8,
+      "timeToSleepMin": 35,
+      "totalSleepHours": 6.1,
+      "bedtime": "22:48",
+      "wakeTime": "05:30"
+    }
+  },
+  {
+    "date": "2026-01-27",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 51,
+      "humidity": 86,
+      "pollenCount": 1
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4,
+      "backToBackMeetings": 1,
+      "slackMessages": 64
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "HIIT",
+      "caffeineMg": 254,
+      "lastCaffeineHour": 17,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.7,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 64,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 4
+    },
+    "sleep": {
+      "score": 72,
+      "hrv": 37,
+      "deepSleepPct": 9,
+      "remPct": 22,
+      "lightSleepPct": 62.9,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 28,
+      "totalSleepHours": 7.1,
+      "bedtime": "22:42",
+      "wakeTime": "06:18"
+    }
+  },
+  {
+    "date": "2026-01-28",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 34,
+      "outdoorTempF": 46,
+      "humidity": 65,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.6,
+      "backToBackMeetings": 1,
+      "slackMessages": 102
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "HIIT",
+      "caffeineMg": 197,
+      "lastCaffeineHour": 17,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 79,
+      "hrv": 48,
+      "deepSleepPct": 17.2,
+      "remPct": 18,
+      "lightSleepPct": 60.9,
+      "respiratoryRate": 14.9,
+      "timeToSleepMin": 16,
+      "totalSleepHours": 7.6,
+      "bedtime": "22:54",
+      "wakeTime": "06:48"
+    }
+  },
+  {
+    "date": "2026-01-29",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 36,
+      "outdoorTempF": 61,
+      "humidity": 66,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.9,
+      "backToBackMeetings": 2,
+      "slackMessages": 73
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 217,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 2,
+      "lastMealHour": 19,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 65,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 58,
+      "hrv": 30,
+      "deepSleepPct": 10.5,
+      "remPct": 13.1,
+      "lightSleepPct": 70.9,
+      "respiratoryRate": 15,
+      "timeToSleepMin": 15,
+      "totalSleepHours": 6.3,
+      "bedtime": "23:12",
+      "wakeTime": "05:48"
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 28,
+      "outdoorTempF": 58,
+      "humidity": 62,
+      "pollenCount": 4
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.5,
+      "backToBackMeetings": 1,
+      "slackMessages": 82
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 234,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 82,
+      "hrv": 44,
+      "deepSleepPct": 16,
+      "remPct": 21.4,
+      "lightSleepPct": 56,
+      "respiratoryRate": 14.3,
+      "timeToSleepMin": 13,
+      "totalSleepHours": 7.9,
+      "bedtime": "22:12",
+      "wakeTime": "06:18"
+    }
+  },
+  {
+    "date": "2026-01-31",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 29,
+      "outdoorTempF": 58,
+      "humidity": 72,
+      "pollenCount": 9
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 16
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "yoga",
+      "caffeineMg": 164,
+      "lastCaffeineHour": 9,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 22,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 48,
+      "deepSleepPct": 13.9,
+      "remPct": 18.1,
+      "lightSleepPct": 63.2,
+      "respiratoryRate": 14.2,
+      "timeToSleepMin": 4,
+      "totalSleepHours": 7.4,
+      "bedtime": "23:30",
+      "wakeTime": "07:00"
+    }
+  },
+  {
+    "date": "2026-02-01",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 34,
+      "outdoorTempF": 57,
+      "humidity": 68,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 11
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 125,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 3
+    },
+    "sleep": {
+      "score": 69,
+      "hrv": 24,
+      "deepSleepPct": 10.8,
+      "remPct": 19.3,
+      "lightSleepPct": 62.6,
+      "respiratoryRate": 14.9,
+      "timeToSleepMin": 22,
+      "totalSleepHours": 6.6,
+      "bedtime": "23:48",
+      "wakeTime": "06:48"
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 33,
+      "outdoorTempF": 41,
+      "humidity": 65,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 6,
+      "backToBackMeetings": 2,
+      "slackMessages": 47
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "swimming",
+      "caffeineMg": 230,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 64,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.6
+    },
+    "sleep": {
+      "score": 63,
+      "hrv": 24,
+      "deepSleepPct": 9.7,
+      "remPct": 15.9,
+      "lightSleepPct": 70.4,
+      "respiratoryRate": 14.8,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 5.9,
+      "bedtime": "22:54",
+      "wakeTime": "05:06"
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 34,
+      "outdoorTempF": 60,
+      "humidity": 45,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.8,
+      "backToBackMeetings": 1,
+      "slackMessages": 49
+    },
+    "lifestyle": {
+      "exerciseIntensity": 3,
+      "exerciseType": "walking",
+      "caffeineMg": 328,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 74,
+      "hrv": 43,
+      "deepSleepPct": 13.7,
+      "remPct": 15.1,
+      "lightSleepPct": 66.9,
+      "respiratoryRate": 14.1,
+      "timeToSleepMin": 15,
+      "totalSleepHours": 7.3,
+      "bedtime": "22:18",
+      "wakeTime": "05:54"
+    }
+  },
+  {
+    "date": "2026-02-04",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 40,
+      "outdoorTempF": 55,
+      "humidity": 70,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.9,
+      "backToBackMeetings": 1,
+      "slackMessages": 22
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "yoga",
+      "caffeineMg": 245,
+      "lastCaffeineHour": 10,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 40,
+      "deepSleepPct": 17,
+      "remPct": 22,
+      "lightSleepPct": 57.6,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 7.6,
+      "bedtime": "22:12",
+      "wakeTime": "06:06"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 40,
+      "outdoorTempF": 58,
+      "humidity": 48,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.5,
+      "backToBackMeetings": 1,
+      "slackMessages": 78
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 313,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.3,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 59,
+      "hrv": 27,
+      "deepSleepPct": 12.2,
+      "remPct": 21.4,
+      "lightSleepPct": 61.1,
+      "respiratoryRate": 13.8,
+      "timeToSleepMin": 26,
+      "totalSleepHours": 5.9,
+      "bedtime": "23:12",
+      "wakeTime": "05:30"
+    }
+  },
+  {
+    "date": "2026-02-06",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 53,
+      "outdoorTempF": 56,
+      "humidity": 71,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 32
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 367,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 72,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.6
+    },
+    "sleep": {
+      "score": 72,
+      "hrv": 37,
+      "deepSleepPct": 12.6,
+      "remPct": 20.5,
+      "lightSleepPct": 63.1,
+      "respiratoryRate": 15.3,
+      "timeToSleepMin": 10,
+      "totalSleepHours": 7.4,
+      "bedtime": "22:00",
+      "wakeTime": "05:36"
+    }
+  },
+  {
+    "date": "2026-02-07",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 51,
+      "humidity": 71,
+      "pollenCount": 6
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 8
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "HIIT",
+      "caffeineMg": 273,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 2,
+      "lastMealHour": 18.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 76,
+      "hrv": 35,
+      "deepSleepPct": 11.2,
+      "remPct": 15,
+      "lightSleepPct": 68.5,
+      "respiratoryRate": 14.5,
+      "timeToSleepMin": 5,
+      "totalSleepHours": 8,
+      "bedtime": "22:36",
+      "wakeTime": "06:42"
+    }
+  },
+  {
+    "date": "2026-02-08",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 30,
+      "outdoorTempF": 54,
+      "humidity": 67,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 1,
+      "backToBackMeetings": 0,
+      "slackMessages": 17
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 254,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 19.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 35,
+      "deepSleepPct": 8.9,
+      "remPct": 15.9,
+      "lightSleepPct": 70.3,
+      "respiratoryRate": 14.3,
+      "timeToSleepMin": 16,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:18",
+      "wakeTime": "05:30"
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 30,
+      "outdoorTempF": 53,
+      "humidity": 70,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.3,
+      "backToBackMeetings": 1,
+      "slackMessages": 84
+    },
+    "lifestyle": {
+      "exerciseIntensity": 2,
+      "exerciseType": "walking",
+      "caffeineMg": 208,
+      "lastCaffeineHour": 18,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 75,
+      "hrv": 33,
+      "deepSleepPct": 15.6,
+      "remPct": 23.8,
+      "lightSleepPct": 55.9,
+      "respiratoryRate": 15.5,
+      "timeToSleepMin": 25,
+      "totalSleepHours": 6.8,
+      "bedtime": "22:18",
+      "wakeTime": "05:30"
+    }
+  },
+  {
+    "date": "2026-02-10",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 50,
+      "humidity": 75,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 1.9,
+      "backToBackMeetings": 1,
+      "slackMessages": 47
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "swimming",
+      "caffeineMg": 276,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 75,
+      "hrv": 30,
+      "deepSleepPct": 17.3,
+      "remPct": 24.9,
+      "lightSleepPct": 52.2,
+      "respiratoryRate": 14.9,
+      "timeToSleepMin": 8,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:54",
+      "wakeTime": "05:54"
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 36,
+      "outdoorTempF": 59,
+      "humidity": 51,
+      "pollenCount": 17
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.8,
+      "backToBackMeetings": 1,
+      "slackMessages": 71
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "swimming",
+      "caffeineMg": 245,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.3,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 28,
+      "deepSleepPct": 16.2,
+      "remPct": 15.4,
+      "lightSleepPct": 64.8,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 33,
+      "totalSleepHours": 6.5,
+      "bedtime": "22:00",
+      "wakeTime": "05:06"
+    }
+  },
+  {
+    "date": "2026-02-12",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 28,
+      "outdoorTempF": 47,
+      "humidity": 72,
+      "pollenCount": 35
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.6,
+      "backToBackMeetings": 1,
+      "slackMessages": 34
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "weights",
+      "caffeineMg": 86,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.3,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 73,
+      "hrv": 48,
+      "deepSleepPct": 18.2,
+      "remPct": 20.1,
+      "lightSleepPct": 57.8,
+      "respiratoryRate": 15.1,
+      "timeToSleepMin": 19,
+      "totalSleepHours": 7,
+      "bedtime": "22:42",
+      "wakeTime": "06:00"
+    }
+  },
+  {
+    "date": "2026-02-13",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 25,
+      "outdoorTempF": 54,
+      "humidity": 86,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.8,
+      "backToBackMeetings": 1,
+      "slackMessages": 34
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "weights",
+      "caffeineMg": 204,
+      "lastCaffeineHour": 16,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 74,
+      "hrv": 49,
+      "deepSleepPct": 14.4,
+      "remPct": 19.6,
+      "lightSleepPct": 59.9,
+      "respiratoryRate": 14.2,
+      "timeToSleepMin": 29,
+      "totalSleepHours": 7.1,
+      "bedtime": "22:30",
+      "wakeTime": "06:06"
+    }
+  },
+  {
+    "date": "2026-02-14",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 22,
+      "outdoorTempF": 57,
+      "humidity": 51,
+      "pollenCount": 16
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 10
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 152,
+      "lastCaffeineHour": 9,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 4,
+      "lastMealHour": 18.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 59,
+      "hrv": 28,
+      "deepSleepPct": 9.7,
+      "remPct": 8.3,
+      "lightSleepPct": 75.9,
+      "respiratoryRate": 15.6,
+      "timeToSleepMin": 12,
+      "totalSleepHours": 7,
+      "bedtime": "23:00",
+      "wakeTime": "06:12"
+    }
+  },
+  {
+    "date": "2026-02-15",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 31,
+      "outdoorTempF": 53,
+      "humidity": 53,
+      "pollenCount": 2
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 20
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 104,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 22.4,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 43,
+      "deepSleepPct": 12.8,
+      "remPct": 21,
+      "lightSleepPct": 60.6,
+      "respiratoryRate": 14.9,
+      "timeToSleepMin": 17,
+      "totalSleepHours": 7.8,
+      "bedtime": "00:00",
+      "wakeTime": "08:06"
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 18,
+      "outdoorTempF": 54,
+      "humidity": 54,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 5.8,
+      "backToBackMeetings": 2,
+      "slackMessages": 111
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "HIIT",
+      "caffeineMg": 170,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 76,
+      "hrv": 40,
+      "deepSleepPct": 16.6,
+      "remPct": 19.9,
+      "lightSleepPct": 58.8,
+      "respiratoryRate": 15.4,
+      "timeToSleepMin": 14,
+      "totalSleepHours": 7.4,
+      "bedtime": "22:54",
+      "wakeTime": "06:30"
+    }
+  },
+  {
+    "date": "2026-02-17",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 53,
+      "humidity": 74,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.5,
+      "backToBackMeetings": 2,
+      "slackMessages": 73
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 152,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 4,
+      "lastMealHour": 17,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 51,
+      "hrv": 17,
+      "deepSleepPct": 8.3,
+      "remPct": 10.5,
+      "lightSleepPct": 76.4,
+      "respiratoryRate": 16.7,
+      "timeToSleepMin": 25,
+      "totalSleepHours": 7.2,
+      "bedtime": "23:06",
+      "wakeTime": "06:42"
+    }
+  },
+  {
+    "date": "2026-02-18",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 31,
+      "outdoorTempF": 56,
+      "humidity": 49,
+      "pollenCount": 28
+    },
+    "cognitiveLoad": {
+      "meetingHours": 6.7,
+      "backToBackMeetings": 2,
+      "slackMessages": 66
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "weights",
+      "caffeineMg": 102,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 18.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 60,
+      "hrv": 18,
+      "deepSleepPct": 6,
+      "remPct": 14.7,
+      "lightSleepPct": 73.8,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 28,
+      "totalSleepHours": 6.4,
+      "bedtime": "22:18",
+      "wakeTime": "05:12"
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 20,
+      "outdoorTempF": 55,
+      "humidity": 49,
+      "pollenCount": 6
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.6,
+      "backToBackMeetings": 2,
+      "slackMessages": 71
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "weights",
+      "caffeineMg": 268,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 71,
+      "hrv": 37,
+      "deepSleepPct": 14.8,
+      "remPct": 20.3,
+      "lightSleepPct": 58.7,
+      "respiratoryRate": 15.6,
+      "timeToSleepMin": 24,
+      "totalSleepHours": 6,
+      "bedtime": "22:42",
+      "wakeTime": "05:06"
+    }
+  },
+  {
+    "date": "2026-02-20",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 38,
+      "outdoorTempF": 49,
+      "humidity": 78,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 5.5,
+      "backToBackMeetings": 2,
+      "slackMessages": 72
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 228,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 18.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 59,
+      "hrv": 31,
+      "deepSleepPct": 11.6,
+      "remPct": 13.1,
+      "lightSleepPct": 70.9,
+      "respiratoryRate": 15.7,
+      "timeToSleepMin": 28,
+      "totalSleepHours": 6,
+      "bedtime": "21:48",
+      "wakeTime": "04:18"
+    }
+  },
+  {
+    "date": "2026-02-21",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 47,
+      "outdoorTempF": 52,
+      "humidity": 53,
+      "pollenCount": 7
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "swimming",
+      "caffeineMg": 226,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 20.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 64,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 4
+    },
+    "sleep": {
+      "score": 59,
+      "hrv": 17,
+      "deepSleepPct": 7.7,
+      "remPct": 15.9,
+      "lightSleepPct": 72.2,
+      "respiratoryRate": 15.6,
+      "timeToSleepMin": 26,
+      "totalSleepHours": 7.8,
+      "bedtime": "00:12",
+      "wakeTime": "08:24"
+    }
+  },
+  {
+    "date": "2026-02-22",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 32,
+      "outdoorTempF": 49,
+      "humidity": 84,
+      "pollenCount": 5
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 11
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "yoga",
+      "caffeineMg": 167,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 86,
+      "hrv": 45,
+      "deepSleepPct": 17.2,
+      "remPct": 21.6,
+      "lightSleepPct": 55.7,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 19,
+      "totalSleepHours": 8.2,
+      "bedtime": "23:30",
+      "wakeTime": "08:00"
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 36,
+      "outdoorTempF": 55,
+      "humidity": 66,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4,
+      "backToBackMeetings": 1,
+      "slackMessages": 57
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "HIIT",
+      "caffeineMg": 272,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 71,
+      "hrv": 38,
+      "deepSleepPct": 10,
+      "remPct": 21.6,
+      "lightSleepPct": 62.9,
+      "respiratoryRate": 15,
+      "timeToSleepMin": 23,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:06",
+      "wakeTime": "05:24"
+    }
+  },
+  {
+    "date": "2026-02-24",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 38,
+      "outdoorTempF": 53,
+      "humidity": 49,
+      "pollenCount": 7
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.2,
+      "backToBackMeetings": 1,
+      "slackMessages": 50
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "running",
+      "caffeineMg": 334,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 35,
+      "deepSleepPct": 13.8,
+      "remPct": 19.9,
+      "lightSleepPct": 61.9,
+      "respiratoryRate": 14.8,
+      "timeToSleepMin": 13,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:42",
+      "wakeTime": "05:48"
+    }
+  },
+  {
+    "date": "2026-02-25",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 35,
+      "outdoorTempF": 60,
+      "humidity": 64,
+      "pollenCount": 1
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.2,
+      "backToBackMeetings": 1,
+      "slackMessages": 29
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 359,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 1,
+      "lastMealHour": 19,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 74,
+      "optimalTempF": 68,
+      "tempDeviation": 6,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 6
+    },
+    "sleep": {
+      "score": 69,
+      "hrv": 36,
+      "deepSleepPct": 9.6,
+      "remPct": 20.9,
+      "lightSleepPct": 64.4,
+      "respiratoryRate": 15,
+      "timeToSleepMin": 15,
+      "totalSleepHours": 6.5,
+      "bedtime": "22:36",
+      "wakeTime": "05:24"
+    }
+  },
+  {
+    "date": "2026-02-26",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 43,
+      "outdoorTempF": 60,
+      "humidity": 50,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.4,
+      "backToBackMeetings": 2,
+      "slackMessages": 57
+    },
+    "lifestyle": {
+      "exerciseIntensity": 9,
+      "exerciseType": "HIIT",
+      "caffeineMg": 341,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 19.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 58,
+      "hrv": 26,
+      "deepSleepPct": 9.2,
+      "remPct": 17.7,
+      "lightSleepPct": 68.6,
+      "respiratoryRate": 15.6,
+      "timeToSleepMin": 19,
+      "totalSleepHours": 6.7,
+      "bedtime": "22:36",
+      "wakeTime": "05:36"
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 6,
+      "outdoorTempF": 62,
+      "humidity": 82,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.8,
+      "backToBackMeetings": 1,
+      "slackMessages": 27
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "swimming",
+      "caffeineMg": 98,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 21.3,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 81,
+      "hrv": 46,
+      "deepSleepPct": 13.3,
+      "remPct": 16.3,
+      "lightSleepPct": 63.8,
+      "respiratoryRate": 14.2,
+      "timeToSleepMin": 12,
+      "totalSleepHours": 6.6,
+      "bedtime": "23:30",
+      "wakeTime": "06:18"
+    }
+  },
+  {
+    "date": "2026-02-28",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 41,
+      "outdoorTempF": 55,
+      "humidity": 61,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 4
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "running",
+      "caffeineMg": 180,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 88,
+      "hrv": 39,
+      "deepSleepPct": 15.6,
+      "remPct": 17.3,
+      "lightSleepPct": 62.5,
+      "respiratoryRate": 13.7,
+      "timeToSleepMin": 4,
+      "totalSleepHours": 8,
+      "bedtime": "23:12",
+      "wakeTime": "07:18"
+    }
+  },
+  {
+    "date": "2026-03-01",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 35,
+      "outdoorTempF": 58,
+      "humidity": 62,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 3,
+      "exerciseType": "light yoga",
+      "caffeineMg": 153,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 85,
+      "hrv": 48,
+      "deepSleepPct": 10.9,
+      "remPct": 20.9,
+      "lightSleepPct": 63.7,
+      "respiratoryRate": 15,
+      "timeToSleepMin": 11,
+      "totalSleepHours": 7.7,
+      "bedtime": "23:36",
+      "wakeTime": "07:30"
+    }
+  },
+  {
+    "date": "2026-03-02",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 54,
+      "humidity": 66,
+      "pollenCount": 20
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.3,
+      "backToBackMeetings": 2,
+      "slackMessages": 52
+    },
+    "lifestyle": {
+      "exerciseIntensity": 3,
+      "exerciseType": "light yoga",
+      "caffeineMg": 415,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 72,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 4
+    },
+    "sleep": {
+      "score": 69,
+      "hrv": 42,
+      "deepSleepPct": 8.5,
+      "remPct": 20.3,
+      "lightSleepPct": 66.3,
+      "respiratoryRate": 14.2,
+      "timeToSleepMin": 22,
+      "totalSleepHours": 7.2,
+      "bedtime": "23:06",
+      "wakeTime": "06:42"
+    }
+  },
+  {
+    "date": "2026-03-03",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 28,
+      "outdoorTempF": 55,
+      "humidity": 59,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3,
+      "backToBackMeetings": 1,
+      "slackMessages": 32
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "swimming",
+      "caffeineMg": 279,
+      "lastCaffeineHour": 18,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 64,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 4
+    },
+    "sleep": {
+      "score": 63,
+      "hrv": 30,
+      "deepSleepPct": 9.9,
+      "remPct": 19.2,
+      "lightSleepPct": 67.5,
+      "respiratoryRate": 14.7,
+      "timeToSleepMin": 35,
+      "totalSleepHours": 6.4,
+      "bedtime": "22:42",
+      "wakeTime": "05:42"
+    }
+  },
+  {
+    "date": "2026-03-04",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 28,
+      "outdoorTempF": 60,
+      "humidity": 62,
+      "pollenCount": 21
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 30
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 229,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 70,
+      "hrv": 35,
+      "deepSleepPct": 10.5,
+      "remPct": 13.6,
+      "lightSleepPct": 69.5,
+      "respiratoryRate": 14.7,
+      "timeToSleepMin": 17,
+      "totalSleepHours": 7.4,
+      "bedtime": "22:18",
+      "wakeTime": "06:00"
+    }
+  },
+  {
+    "date": "2026-03-05",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 27,
+      "outdoorTempF": 55,
+      "humidity": 57,
+      "pollenCount": 12
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.1,
+      "backToBackMeetings": 1,
+      "slackMessages": 37
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "cycling",
+      "caffeineMg": 134,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 39,
+      "deepSleepPct": 16.3,
+      "remPct": 22.4,
+      "lightSleepPct": 55.7,
+      "respiratoryRate": 15.7,
+      "timeToSleepMin": 12,
+      "totalSleepHours": 7.3,
+      "bedtime": "22:24",
+      "wakeTime": "05:54"
+    }
+  },
+  {
+    "date": "2026-03-06",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 32,
+      "outdoorTempF": 47,
+      "humidity": 57,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4,
+      "backToBackMeetings": 2,
+      "slackMessages": 44
+    },
+    "lifestyle": {
+      "exerciseIntensity": 3,
+      "exerciseType": "stretching",
+      "caffeineMg": 228,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 3,
+      "lastMealHour": 18.3,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 61,
+      "optimalTempF": 68,
+      "tempDeviation": 7,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 2.8
+    },
+    "sleep": {
+      "score": 53,
+      "hrv": 23,
+      "deepSleepPct": 8.1,
+      "remPct": 9,
+      "lightSleepPct": 77.7,
+      "respiratoryRate": 15.9,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 5.7,
+      "bedtime": "22:48",
+      "wakeTime": "04:48"
+    }
+  },
+  {
+    "date": "2026-03-07",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 46,
+      "outdoorTempF": 60,
+      "humidity": 65,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 15
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "cycling",
+      "caffeineMg": 64,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 1,
+      "lastMealHour": 19.3,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 72,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 4
+    },
+    "sleep": {
+      "score": 88,
+      "hrv": 58,
+      "deepSleepPct": 14.4,
+      "remPct": 20.3,
+      "lightSleepPct": 61.9,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 12,
+      "totalSleepHours": 7.4,
+      "bedtime": "21:42",
+      "wakeTime": "05:18"
+    }
+  },
+  {
+    "date": "2026-03-08",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 28,
+      "outdoorTempF": 57,
+      "humidity": 61,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 17
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "yoga",
+      "caffeineMg": 112,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.7,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 93,
+      "hrv": 51,
+      "deepSleepPct": 16.1,
+      "remPct": 20.8,
+      "lightSleepPct": 57.4,
+      "respiratoryRate": 15.1,
+      "timeToSleepMin": 7,
+      "totalSleepHours": 7.8,
+      "bedtime": "23:42",
+      "wakeTime": "07:36"
+    }
+  },
+  {
+    "date": "2026-03-09",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 57,
+      "humidity": 78,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 46
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "yoga",
+      "caffeineMg": 125,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 1,
+      "lastMealHour": 20.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 67,
+      "hrv": 36,
+      "deepSleepPct": 5,
+      "remPct": 19.5,
+      "lightSleepPct": 71.3,
+      "respiratoryRate": 14.7,
+      "timeToSleepMin": 8,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:00",
+      "wakeTime": "05:00"
+    }
+  },
+  {
+    "date": "2026-03-10",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 46,
+      "outdoorTempF": 48,
+      "humidity": 72,
+      "pollenCount": 18
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.3,
+      "backToBackMeetings": 1,
+      "slackMessages": 70
+    },
+    "lifestyle": {
+      "exerciseIntensity": 3,
+      "exerciseType": "stretching",
+      "caffeineMg": 208,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 20.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 63,
+      "optimalTempF": 68,
+      "tempDeviation": 5,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 64,
+      "hrv": 30,
+      "deepSleepPct": 11.8,
+      "remPct": 16.5,
+      "lightSleepPct": 66.9,
+      "respiratoryRate": 16.2,
+      "timeToSleepMin": 29,
+      "totalSleepHours": 6.4,
+      "bedtime": "22:48",
+      "wakeTime": "05:42"
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 126,
+      "outdoorTempF": 59,
+      "humidity": 62,
+      "pollenCount": 11
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.2,
+      "backToBackMeetings": 1,
+      "slackMessages": 67
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "running",
+      "caffeineMg": 178,
+      "lastCaffeineHour": 16,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.7,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 29,
+      "deepSleepPct": 10.8,
+      "remPct": 21,
+      "lightSleepPct": 62.6,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 17,
+      "totalSleepHours": 6.8,
+      "bedtime": "23:24",
+      "wakeTime": "06:30"
+    }
+  },
+  {
+    "date": "2026-03-12",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 104,
+      "outdoorTempF": 63,
+      "humidity": 58,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.5,
+      "backToBackMeetings": 1,
+      "slackMessages": 82
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "yoga",
+      "caffeineMg": 305,
+      "lastCaffeineHour": 18,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 61,
+      "hrv": 35,
+      "deepSleepPct": 7,
+      "remPct": 17.5,
+      "lightSleepPct": 70.3,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 22,
+      "totalSleepHours": 6.2,
+      "bedtime": "23:30",
+      "wakeTime": "06:06"
+    }
+  },
+  {
+    "date": "2026-03-13",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 143,
+      "outdoorTempF": 55,
+      "humidity": 80,
+      "pollenCount": 10
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2,
+      "backToBackMeetings": 1,
+      "slackMessages": 37
+    },
+    "lifestyle": {
+      "exerciseIntensity": 2,
+      "exerciseType": "light yoga",
+      "caffeineMg": 332,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 61,
+      "hrv": 26,
+      "deepSleepPct": 9.5,
+      "remPct": 16.3,
+      "lightSleepPct": 70.6,
+      "respiratoryRate": 15.7,
+      "timeToSleepMin": 14,
+      "totalSleepHours": 6.6,
+      "bedtime": "22:54",
+      "wakeTime": "05:42"
+    }
+  },
+  {
+    "date": "2026-03-14",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 116,
+      "outdoorTempF": 58,
+      "humidity": 57,
+      "pollenCount": 0
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 16
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 90,
+      "lastCaffeineHour": 11,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 81,
+      "hrv": 44,
+      "deepSleepPct": 14.5,
+      "remPct": 22.5,
+      "lightSleepPct": 57.6,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 7,
+      "totalSleepHours": 7.3,
+      "bedtime": "23:12",
+      "wakeTime": "06:36"
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 194,
+      "outdoorTempF": 53,
+      "humidity": 59,
+      "pollenCount": 25
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "cycling",
+      "caffeineMg": 154,
+      "lastCaffeineHour": 10,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 3,
+      "lastMealHour": 21.8,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 29,
+      "deepSleepPct": 10.2,
+      "remPct": 10.5,
+      "lightSleepPct": 74.2,
+      "respiratoryRate": 15.9,
+      "timeToSleepMin": 3,
+      "totalSleepHours": 7.2,
+      "bedtime": "23:42",
+      "wakeTime": "06:54"
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 126,
+      "outdoorTempF": 57,
+      "humidity": 66,
+      "pollenCount": 32
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.1,
+      "backToBackMeetings": 1,
+      "slackMessages": 53
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "running",
+      "caffeineMg": 339,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 30,
+      "deepSleepPct": 13.9,
+      "remPct": 20.3,
+      "lightSleepPct": 59.7,
+      "respiratoryRate": 15.5,
+      "timeToSleepMin": 24,
+      "totalSleepHours": 6.3,
+      "bedtime": "22:36",
+      "wakeTime": "05:18"
+    }
+  },
+  {
+    "date": "2026-03-17",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 192,
+      "outdoorTempF": 56,
+      "humidity": 78,
+      "pollenCount": 18
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.7,
+      "backToBackMeetings": 1,
+      "slackMessages": 47
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 127,
+      "lastCaffeineHour": 16,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 53,
+      "hrv": 25,
+      "deepSleepPct": 10.4,
+      "remPct": 15.6,
+      "lightSleepPct": 68.2,
+      "respiratoryRate": 16.5,
+      "timeToSleepMin": 30,
+      "totalSleepHours": 6,
+      "bedtime": "21:42",
+      "wakeTime": "04:12"
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 49,
+      "outdoorTempF": 66,
+      "humidity": 68,
+      "pollenCount": 23
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 78
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 174,
+      "lastCaffeineHour": 16,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 74,
+      "hrv": 34,
+      "deepSleepPct": 16.5,
+      "remPct": 20.2,
+      "lightSleepPct": 57.9,
+      "respiratoryRate": 14.6,
+      "timeToSleepMin": 21,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:12",
+      "wakeTime": "05:30"
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 34,
+      "outdoorTempF": 59,
+      "humidity": 69,
+      "pollenCount": 25
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.9,
+      "backToBackMeetings": 2,
+      "slackMessages": 74
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 410,
+      "lastCaffeineHour": 18,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 65,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 3
+    },
+    "sleep": {
+      "score": 60,
+      "hrv": 24,
+      "deepSleepPct": 6.8,
+      "remPct": 16.8,
+      "lightSleepPct": 71.2,
+      "respiratoryRate": 14.3,
+      "timeToSleepMin": 28,
+      "totalSleepHours": 6.5,
+      "bedtime": "22:12",
+      "wakeTime": "05:12"
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 41,
+      "outdoorTempF": 56,
+      "humidity": 52,
+      "pollenCount": 14
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.2,
+      "backToBackMeetings": 0,
+      "slackMessages": 92
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 323,
+      "lastCaffeineHour": 10,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.7,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 65,
+      "hrv": 33,
+      "deepSleepPct": 12.8,
+      "remPct": 18.8,
+      "lightSleepPct": 63,
+      "respiratoryRate": 15.1,
+      "timeToSleepMin": 20,
+      "totalSleepHours": 7.2,
+      "bedtime": "21:54",
+      "wakeTime": "05:24"
+    }
+  },
+  {
+    "date": "2026-03-21",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 41,
+      "outdoorTempF": 65,
+      "humidity": 59,
+      "pollenCount": 32
+    },
+    "cognitiveLoad": {
+      "meetingHours": 1,
+      "backToBackMeetings": 0,
+      "slackMessages": 8
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 13,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 21.6,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 72,
+      "hrv": 35,
+      "deepSleepPct": 10,
+      "remPct": 9.6,
+      "lightSleepPct": 76.2,
+      "respiratoryRate": 15.4,
+      "timeToSleepMin": 19,
+      "totalSleepHours": 7.1,
+      "bedtime": "23:36",
+      "wakeTime": "07:00"
+    }
+  },
+  {
+    "date": "2026-03-22",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 29,
+      "outdoorTempF": 68,
+      "humidity": 79,
+      "pollenCount": 16
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 19
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 34,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 4,
+      "lastMealHour": 22.9,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 54,
+      "hrv": 35,
+      "deepSleepPct": 6.8,
+      "remPct": 9.2,
+      "lightSleepPct": 77.2,
+      "respiratoryRate": 15.6,
+      "timeToSleepMin": 23,
+      "totalSleepHours": 6.9,
+      "bedtime": "23:12",
+      "wakeTime": "06:30"
+    }
+  },
+  {
+    "date": "2026-03-23",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 60,
+      "outdoorTempF": 54,
+      "humidity": 75,
+      "pollenCount": 4
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.6,
+      "backToBackMeetings": 1,
+      "slackMessages": 58
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "swimming",
+      "caffeineMg": 260,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 63,
+      "optimalTempF": 68,
+      "tempDeviation": 5,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 60,
+      "hrv": 19,
+      "deepSleepPct": 10.3,
+      "remPct": 23.5,
+      "lightSleepPct": 59.3,
+      "respiratoryRate": 14.2,
+      "timeToSleepMin": 12,
+      "totalSleepHours": 5.6,
+      "bedtime": "22:18",
+      "wakeTime": "04:06"
+    }
+  },
+  {
+    "date": "2026-03-24",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 38,
+      "outdoorTempF": 63,
+      "humidity": 64,
+      "pollenCount": 6
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.8,
+      "backToBackMeetings": 1,
+      "slackMessages": 37
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "cycling",
+      "caffeineMg": 179,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 2,
+      "lastMealHour": 20.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 66,
+      "hrv": 44,
+      "deepSleepPct": 7,
+      "remPct": 14.7,
+      "lightSleepPct": 72.7,
+      "respiratoryRate": 16.3,
+      "timeToSleepMin": 9,
+      "totalSleepHours": 6.2,
+      "bedtime": "22:30",
+      "wakeTime": "04:48"
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 45,
+      "outdoorTempF": 61,
+      "humidity": 67,
+      "pollenCount": 9
+    },
+    "cognitiveLoad": {
+      "meetingHours": 6.1,
+      "backToBackMeetings": 2,
+      "slackMessages": 55
+    },
+    "lifestyle": {
+      "exerciseIntensity": 3,
+      "exerciseType": "walking",
+      "caffeineMg": 317,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 72,
+      "optimalTempF": 68,
+      "tempDeviation": 4,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.6
+    },
+    "sleep": {
+      "score": 58,
+      "hrv": 32,
+      "deepSleepPct": 8,
+      "remPct": 22.1,
+      "lightSleepPct": 63.4,
+      "respiratoryRate": 14.7,
+      "timeToSleepMin": 39,
+      "totalSleepHours": 6.6,
+      "bedtime": "22:30",
+      "wakeTime": "05:48"
+    }
+  },
+  {
+    "date": "2026-03-26",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 35,
+      "outdoorTempF": 58,
+      "humidity": 64,
+      "pollenCount": 9
+    },
+    "cognitiveLoad": {
+      "meetingHours": 1.5,
+      "backToBackMeetings": 0,
+      "slackMessages": 74
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 210,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 2,
+      "lastMealHour": 19,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 68,
+      "hrv": 26,
+      "deepSleepPct": 10.6,
+      "remPct": 17.8,
+      "lightSleepPct": 68.6,
+      "respiratoryRate": 14.8,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 6.8,
+      "bedtime": "22:42",
+      "wakeTime": "05:48"
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 41,
+      "outdoorTempF": 65,
+      "humidity": 74,
+      "pollenCount": 52
+    },
+    "cognitiveLoad": {
+      "meetingHours": 4.5,
+      "backToBackMeetings": 2,
+      "slackMessages": 89
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "swimming",
+      "caffeineMg": 287,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 71,
+      "hrv": 44,
+      "deepSleepPct": 9.7,
+      "remPct": 19.2,
+      "lightSleepPct": 66.2,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 27,
+      "totalSleepHours": 6.8,
+      "bedtime": "23:00",
+      "wakeTime": "06:18"
+    }
+  },
+  {
+    "date": "2026-03-28",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 37,
+      "outdoorTempF": 60,
+      "humidity": 81,
+      "pollenCount": 19
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "weights",
+      "caffeineMg": 68,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 4,
+      "lastMealHour": 20.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 66,
+      "hrv": 34,
+      "deepSleepPct": 8.4,
+      "remPct": 8,
+      "lightSleepPct": 77.5,
+      "respiratoryRate": 16.1,
+      "timeToSleepMin": 17,
+      "totalSleepHours": 8.1,
+      "bedtime": "00:18",
+      "wakeTime": "08:42"
+    }
+  },
+  {
+    "date": "2026-03-29",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 53,
+      "outdoorTempF": 50,
+      "humidity": 50,
+      "pollenCount": 16
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 9
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 60,
+      "lastCaffeineHour": 9,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.8
+    },
+    "sleep": {
+      "score": 75,
+      "hrv": 40,
+      "deepSleepPct": 8.8,
+      "remPct": 21.9,
+      "lightSleepPct": 64.8,
+      "respiratoryRate": 15.3,
+      "timeToSleepMin": 13,
+      "totalSleepHours": 7.1,
+      "bedtime": "23:00",
+      "wakeTime": "06:18"
+    }
+  },
+  {
+    "date": "2026-03-30",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 34,
+      "outdoorTempF": 58,
+      "humidity": 57,
+      "pollenCount": 36
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.7,
+      "backToBackMeetings": 1,
+      "slackMessages": 62
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "yoga",
+      "caffeineMg": 211,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 1,
+      "lastMealHour": 19.1,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 70,
+      "hrv": 46,
+      "deepSleepPct": 10.6,
+      "remPct": 17.4,
+      "lightSleepPct": 68,
+      "respiratoryRate": 15.1,
+      "timeToSleepMin": 13,
+      "totalSleepHours": 6.5,
+      "bedtime": "21:54",
+      "wakeTime": "04:36"
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 25,
+      "outdoorTempF": 64,
+      "humidity": 68,
+      "pollenCount": 52
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 49
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 237,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 17.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 66,
+      "hrv": 39,
+      "deepSleepPct": 9,
+      "remPct": 20.2,
+      "lightSleepPct": 62.2,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 28,
+      "totalSleepHours": 6.5,
+      "bedtime": "22:12",
+      "wakeTime": "05:12"
+    }
+  },
+  {
+    "date": "2026-04-01",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 32,
+      "outdoorTempF": 57,
+      "humidity": 55,
+      "pollenCount": 11
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.4,
+      "backToBackMeetings": 0,
+      "slackMessages": 53
+    },
+    "lifestyle": {
+      "exerciseIntensity": 9,
+      "exerciseType": "cycling",
+      "caffeineMg": 258,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 42,
+      "deepSleepPct": 10.9,
+      "remPct": 22.5,
+      "lightSleepPct": 61.8,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 4,
+      "totalSleepHours": 7.2,
+      "bedtime": "22:00",
+      "wakeTime": "05:18"
+    }
+  },
+  {
+    "date": "2026-04-02",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 28,
+      "outdoorTempF": 61,
+      "humidity": 53,
+      "pollenCount": 38
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.5,
+      "backToBackMeetings": 1,
+      "slackMessages": 36
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 187,
+      "lastCaffeineHour": 17,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 20,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 56,
+      "hrv": 16,
+      "deepSleepPct": 7.7,
+      "remPct": 14.3,
+      "lightSleepPct": 71,
+      "respiratoryRate": 16.1,
+      "timeToSleepMin": 21,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:36",
+      "wakeTime": "05:54"
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 24,
+      "outdoorTempF": 53,
+      "humidity": 73,
+      "pollenCount": 21
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.9,
+      "backToBackMeetings": 1,
+      "slackMessages": 56
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "running",
+      "caffeineMg": 214,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 70,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 39,
+      "deepSleepPct": 17.4,
+      "remPct": 18.7,
+      "lightSleepPct": 57.7,
+      "respiratoryRate": 15,
+      "timeToSleepMin": 13,
+      "totalSleepHours": 7.3,
+      "bedtime": "22:12",
+      "wakeTime": "05:42"
+    }
+  },
+  {
+    "date": "2026-04-04",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 20,
+      "outdoorTempF": 52,
+      "humidity": 82,
+      "pollenCount": 36
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 2
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 170,
+      "lastCaffeineHour": 12,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 21.3,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 66,
+      "optimalTempF": 68,
+      "tempDeviation": 2,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 2
+    },
+    "sleep": {
+      "score": 82,
+      "hrv": 38,
+      "deepSleepPct": 11.9,
+      "remPct": 23.9,
+      "lightSleepPct": 58.1,
+      "respiratoryRate": 14.7,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 7.6,
+      "bedtime": "23:48",
+      "wakeTime": "07:42"
+    }
+  },
+  {
+    "date": "2026-04-05",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 35,
+      "outdoorTempF": 61,
+      "humidity": 64,
+      "pollenCount": 45
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 0
+    },
+    "lifestyle": {
+      "exerciseIntensity": 7,
+      "exerciseType": "cycling",
+      "caffeineMg": 215,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.4,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 80,
+      "hrv": 46,
+      "deepSleepPct": 19,
+      "remPct": 20.6,
+      "lightSleepPct": 56.2,
+      "respiratoryRate": 15.3,
+      "timeToSleepMin": 15,
+      "totalSleepHours": 7.8,
+      "bedtime": "23:48",
+      "wakeTime": "07:54"
+    }
+  },
+  {
+    "date": "2026-04-06",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 25,
+      "outdoorTempF": 66,
+      "humidity": 83,
+      "pollenCount": 50
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.2,
+      "backToBackMeetings": 1,
+      "slackMessages": 57
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 258,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 65,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 64,
+      "hrv": 36,
+      "deepSleepPct": 12.3,
+      "remPct": 23.4,
+      "lightSleepPct": 60.2,
+      "respiratoryRate": 15,
+      "timeToSleepMin": 21,
+      "totalSleepHours": 6.3,
+      "bedtime": "22:00",
+      "wakeTime": "04:42"
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 18,
+      "outdoorTempF": 73,
+      "humidity": 83,
+      "pollenCount": 45
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.8,
+      "backToBackMeetings": 1,
+      "slackMessages": 54
+    },
+    "lifestyle": {
+      "exerciseIntensity": 5,
+      "exerciseType": "weights",
+      "caffeineMg": 247,
+      "lastCaffeineHour": 13,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 21,
+      "lateMeal": true
+    },
+    "pod": {
+      "tempSettingF": 69,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 79,
+      "hrv": 34,
+      "deepSleepPct": 15.3,
+      "remPct": 21.1,
+      "lightSleepPct": 58.7,
+      "respiratoryRate": 14.5,
+      "timeToSleepMin": 11,
+      "totalSleepHours": 6.8,
+      "bedtime": "22:48",
+      "wakeTime": "05:48"
+    }
+  },
+  {
+    "date": "2026-04-08",
+    "dayOfWeek": "Wed",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 43,
+      "outdoorTempF": 66,
+      "humidity": 66,
+      "pollenCount": 31
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.9,
+      "backToBackMeetings": 1,
+      "slackMessages": 59
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 198,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 1
+    },
+    "sleep": {
+      "score": 66,
+      "hrv": 37,
+      "deepSleepPct": 10,
+      "remPct": 21.5,
+      "lightSleepPct": 65,
+      "respiratoryRate": 14.2,
+      "timeToSleepMin": 26,
+      "totalSleepHours": 6.6,
+      "bedtime": "22:18",
+      "wakeTime": "05:18"
+    }
+  },
+  {
+    "date": "2026-04-09",
+    "dayOfWeek": "Thu",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 33,
+      "outdoorTempF": 59,
+      "humidity": 48,
+      "pollenCount": 26
+    },
+    "cognitiveLoad": {
+      "meetingHours": 2.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 54
+    },
+    "lifestyle": {
+      "exerciseIntensity": 0,
+      "exerciseType": "none",
+      "caffeineMg": 290,
+      "lastCaffeineHour": 16,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 18.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 71,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 1.2
+    },
+    "sleep": {
+      "score": 67,
+      "hrv": 35,
+      "deepSleepPct": 10.8,
+      "remPct": 22.3,
+      "lightSleepPct": 61,
+      "respiratoryRate": 14.7,
+      "timeToSleepMin": 39,
+      "totalSleepHours": 7.5,
+      "bedtime": "22:54",
+      "wakeTime": "07:00"
+    }
+  },
+  {
+    "date": "2026-04-10",
+    "dayOfWeek": "Fri",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 23,
+      "outdoorTempF": 70,
+      "humidity": 56,
+      "pollenCount": 29
+    },
+    "cognitiveLoad": {
+      "meetingHours": 6,
+      "backToBackMeetings": 2,
+      "slackMessages": 33
+    },
+    "lifestyle": {
+      "exerciseIntensity": 4,
+      "exerciseType": "yoga",
+      "caffeineMg": 342,
+      "lastCaffeineHour": 10,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.2,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 68,
+      "hrv": 35,
+      "deepSleepPct": 13.6,
+      "remPct": 23.7,
+      "lightSleepPct": 56.3,
+      "respiratoryRate": 15.2,
+      "timeToSleepMin": 17,
+      "totalSleepHours": 7.3,
+      "bedtime": "22:48",
+      "wakeTime": "06:24"
+    }
+  },
+  {
+    "date": "2026-04-11",
+    "dayOfWeek": "Sat",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 43,
+      "outdoorTempF": 61,
+      "humidity": 64,
+      "pollenCount": 27
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 10
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "HIIT",
+      "caffeineMg": 57,
+      "lastCaffeineHour": 14,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 2,
+      "lastMealHour": 18.8,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 65,
+      "optimalTempF": 68,
+      "tempDeviation": 3,
+      "autopilotEnabled": false,
+      "effectiveDeviation": 3
+    },
+    "sleep": {
+      "score": 69,
+      "hrv": 23,
+      "deepSleepPct": 15.2,
+      "remPct": 15.5,
+      "lightSleepPct": 63,
+      "respiratoryRate": 15.3,
+      "timeToSleepMin": 14,
+      "totalSleepHours": 7.4,
+      "bedtime": "23:42",
+      "wakeTime": "07:18"
+    }
+  },
+  {
+    "date": "2026-04-12",
+    "dayOfWeek": "Sun",
+    "isWeekend": true,
+    "environment": {
+      "aqi": 39,
+      "outdoorTempF": 63,
+      "humidity": 47,
+      "pollenCount": 32
+    },
+    "cognitiveLoad": {
+      "meetingHours": 0,
+      "backToBackMeetings": 0,
+      "slackMessages": 4
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "yoga",
+      "caffeineMg": 116,
+      "lastCaffeineHour": 9,
+      "afternoonCaffeine": false,
+      "alcoholDrinks": 3,
+      "lastMealHour": 20.6,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 67,
+      "optimalTempF": 68,
+      "tempDeviation": 1,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0.4
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 35,
+      "deepSleepPct": 15.5,
+      "remPct": 11,
+      "lightSleepPct": 69.2,
+      "respiratoryRate": 14.8,
+      "timeToSleepMin": 12,
+      "totalSleepHours": 7.8,
+      "bedtime": "23:42",
+      "wakeTime": "07:42"
+    }
+  },
+  {
+    "date": "2026-04-13",
+    "dayOfWeek": "Mon",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 33,
+      "outdoorTempF": 53,
+      "humidity": 75,
+      "pollenCount": 60
+    },
+    "cognitiveLoad": {
+      "meetingHours": 3.4,
+      "backToBackMeetings": 1,
+      "slackMessages": 58
+    },
+    "lifestyle": {
+      "exerciseIntensity": 8,
+      "exerciseType": "cycling",
+      "caffeineMg": 150,
+      "lastCaffeineHour": 15,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 19.5,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 77,
+      "hrv": 43,
+      "deepSleepPct": 12,
+      "remPct": 19.8,
+      "lightSleepPct": 64.5,
+      "respiratoryRate": 15.1,
+      "timeToSleepMin": 18,
+      "totalSleepHours": 7.5,
+      "bedtime": "23:00",
+      "wakeTime": "06:48"
+    }
+  },
+  {
+    "date": "2026-04-14",
+    "dayOfWeek": "Tue",
+    "isWeekend": false,
+    "environment": {
+      "aqi": 26,
+      "outdoorTempF": 57,
+      "humidity": 75,
+      "pollenCount": 28
+    },
+    "cognitiveLoad": {
+      "meetingHours": 5.4,
+      "backToBackMeetings": 3,
+      "slackMessages": 90
+    },
+    "lifestyle": {
+      "exerciseIntensity": 6,
+      "exerciseType": "swimming",
+      "caffeineMg": 173,
+      "lastCaffeineHour": 17,
+      "afternoonCaffeine": true,
+      "alcoholDrinks": 0,
+      "lastMealHour": 20.9,
+      "lateMeal": false
+    },
+    "pod": {
+      "tempSettingF": 68,
+      "optimalTempF": 68,
+      "tempDeviation": 0,
+      "autopilotEnabled": true,
+      "effectiveDeviation": 0
+    },
+    "sleep": {
+      "score": 71,
+      "hrv": 28,
+      "deepSleepPct": 10.5,
+      "remPct": 18,
+      "lightSleepPct": 67.1,
+      "respiratoryRate": 14.8,
+      "timeToSleepMin": 23,
+      "totalSleepHours": 6.9,
+      "bedtime": "22:42",
+      "wakeTime": "06:00"
+    }
+  }
+]
