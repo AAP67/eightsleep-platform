@@ -303,7 +303,7 @@ export default function Integrations() {
             <a href="/#steps" className="hover:text-white transition-colors">6 Steps</a>
             <span className="text-white font-medium">Integrations</span>
             <a href="/demo" className="hover:text-white transition-colors">Demo</a>
-            <a href="/api" className="hover:text-white transition-colors">API</a>
+            <a href="/api-docs" className="hover:text-white transition-colors">API</a>
           </div>
         </div>
       </nav>
@@ -377,7 +377,7 @@ export default function Integrations() {
             <a href="/demo" className="px-8 py-3.5 bg-white text-black font-semibold rounded-lg hover:bg-slate-200 transition-colors text-sm">
               See the Live Demo →
             </a>
-            <a href="/api" className="px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm">
+            <a href="/api-docs" className="px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm">
               API Documentation
             </a>
           </div>

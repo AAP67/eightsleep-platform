@@ -28,7 +28,7 @@ function Nav() {
           <a href="#steps" className="hover:text-white transition-colors">6 Steps</a>
           <a href="/integrations" className="hover:text-white transition-colors">Integrations</a>
           <a href="/demo" className="hover:text-white transition-colors">Demo</a>
-          <a href="/api" className="hover:text-white transition-colors">API</a>
+          <a href="/api-docs" className="hover:text-white transition-colors">API</a>
         </div>
       </div>
     </nav>
@@ -443,7 +443,7 @@ function CTA() {
             <a href="/demo" className="w-full sm:w-auto px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm text-center">
               Live Demo
             </a>
-            <a href="/api" className="w-full sm:w-auto px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm text-center">
+            <a href="/api-docs" className="w-full sm:w-auto px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm text-center">
               API Docs
             </a>
           </div>

@@ -401,7 +401,7 @@ export default function Demo() {
             <a href="/#steps" className="hover:text-white transition-colors">6 Steps</a>
             <a href="/integrations" className="hover:text-white transition-colors">Integrations</a>
             <span className="text-white font-medium">Demo</span>
-            <a href="/api" className="hover:text-white transition-colors">API</a>
+            <a href="/api-docs" className="hover:text-white transition-colors">API</a>
           </div>
         </div>
       </nav>
@@ -480,7 +480,7 @@ export default function Demo() {
                 Next Step →
               </button>
             ) : (
-              <a href="/api" className="px-6 py-3 text-sm font-semibold rounded-lg bg-white text-black hover:bg-slate-200 transition-colors">
+              <a href="/api-docs" className="px-6 py-3 text-sm font-semibold rounded-lg bg-white text-black hover:bg-slate-200 transition-colors">
                 Explore the API →
               </a>
             )}
