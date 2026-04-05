@@ -436,7 +436,7 @@ function CTA() {
           <p className="mt-4 text-slate-400 max-w-md mx-auto">
             See how the feedback loop works with real data, explore the API, and understand the flywheel.
           </p>
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 flex-wrap">
             <a href="/integrations" className="w-full sm:w-auto px-8 py-3.5 bg-white text-black font-semibold rounded-lg hover:bg-slate-200 transition-colors text-sm text-center">
               Integration Showcase
             </a>
@@ -445,6 +445,9 @@ function CTA() {
             </a>
             <a href="/api-docs" className="w-full sm:w-auto px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm text-center">
               API Docs
+            </a>
+            <a href="/flywheel" className="w-full sm:w-auto px-8 py-3.5 border border-slate-700 text-slate-300 font-medium rounded-lg hover:border-slate-500 transition-colors text-sm text-center">
+              Data Flywheel
             </a>
           </div>
         </div>
