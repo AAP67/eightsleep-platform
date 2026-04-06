@@ -221,6 +221,42 @@ function WhyThisMatters() {
   )
 }
 
+function ThePrecedent() {
+  return (
+    <section className="py-24 px-6 bg-[#08080d]">
+      <div className="max-w-3xl mx-auto">
+        <div className="text-center">
+          <h2 className="text-3xl md:text-4xl font-bold text-white leading-tight">
+            Apple tried to own health entirely.
+          </h2>
+          <p className="mt-4 text-lg text-slate-400 max-w-lg mx-auto">
+            It didn&apos;t work until they opened HealthKit and let every app plug in.
+          </p>
+        </div>
+
+        <div className="mt-12 grid grid-cols-3 gap-4">
+          {[
+            { value: '150+', label: 'Health data types in HealthKit', sub: 'Open to all developers' },
+            { value: '3%', label: 'Average 30-day retention', sub: 'For health & fitness apps' },
+            { value: '5x', label: 'Cheaper to retain than acquire', sub: 'Outcome data drives retention' },
+          ].map((stat, i) => (
+            <div key={i} className="p-5 rounded-xl bg-[#0a0a12] border border-slate-800/40 text-center">
+              <div className="text-2xl font-bold text-white">{stat.value}</div>
+              <div className="text-xs text-slate-400 mt-1">{stat.label}</div>
+              <div className="text-[10px] text-slate-600 mt-1">{stat.sub}</div>
+            </div>
+          ))}
+        </div>
+
+        <p className="mt-10 text-center text-slate-500 text-sm max-w-lg mx-auto">
+          Health apps churn because users can&apos;t feel impact. Give them sleep outcomes as proof, and retention changes fundamentally.
+          The platform that provides that proof becomes the center of the ecosystem — just like HealthKit did for Apple.
+        </p>
+      </div>
+    </section>
+  )
+}
+
 function CTA() {
   return (
     <section className="py-24 px-6">
@@ -261,6 +297,7 @@ export default function Home() {
         <Problem />
         <TheLoop />
         <WhyThisMatters />
+        <ThePrecedent />
         <CTA />
       </main>
       <Footer />
